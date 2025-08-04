@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Programming Assignment\\dcit318-assignment1-ID\\Assignment 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4BC9D30-6956-49CC-AC50-37A461D53A02}|Assignment 1.csproj|c:\\users\\hp\\documents\\programming assignment\\dcit318-assignment1-id\\assignment 1\\grade calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4BC9D30-6956-49CC-AC50-37A461D53A02}|Assignment 1.csproj|solutionrelative:grade calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A4BC9D30-6956-49CC-AC50-37A461D53A02}|Assignment 1.csproj|c:\\users\\hp\\documents\\programming assignment\\dcit318-assignment1-id\\assignment 1\\assignment 1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{A4BC9D30-6956-49CC-AC50-37A461D53A02}|Assignment 1.csproj|solutionrelative:assignment 1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BC9D30-6956-49CC-AC50-37A461D53A02}|Assignment 1.csproj|c:\\users\\hp\\documents\\programming assignment\\dcit318-assignment1-id\\assignment 1\\ticket calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BC9D30-6956-49CC-AC50-37A461D53A02}|Assignment 1.csproj|solutionrelative:ticket calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BC9D30-6956-49CC-AC50-37A461D53A02}|Assignment 1.csproj|c:\\users\\hp\\documents\\programming assignment\\dcit318-assignment1-id\\assignment 1\\triangle type identifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4BC9D30-6956-49CC-AC50-37A461D53A02}|Assignment 1.csproj|solutionrelative:triangle type identifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Assignment 1",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\Programming Assignment\\dcit318-assignment1-ID\\Assignment 1\\Assignment 1.csproj",
               "RelativeDocumentMoniker": "Assignment 1.csproj",
@@ -34,15 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Grade Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Programming Assignment\\dcit318-assignment1-ID\\Assignment 1\\Grade Calculator.cs",
-              "RelativeDocumentMoniker": "Grade Calculator.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Programming Assignment\\dcit318-assignment1-ID\\Assignment 1\\Grade Calculator.cs*",
-              "RelativeToolTip": "Grade Calculator.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Ticket Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Programming Assignment\\dcit318-assignment1-ID\\Assignment 1\\Ticket Calculator.cs",
+              "RelativeDocumentMoniker": "Ticket Calculator.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Programming Assignment\\dcit318-assignment1-ID\\Assignment 1\\Ticket Calculator.cs*",
+              "RelativeToolTip": "Ticket Calculator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T17:31:07.43Z",
+              "WhenOpened": "2025-08-04T17:36:37.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle Type Identifier.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Programming Assignment\\dcit318-assignment1-ID\\Assignment 1\\Triangle Type Identifier.cs",
+              "RelativeDocumentMoniker": "Triangle Type Identifier.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Programming Assignment\\dcit318-assignment1-ID\\Assignment 1\\Triangle Type Identifier.cs",
+              "RelativeToolTip": "Triangle Type Identifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:37:32.866Z",
               "EditorCaption": ""
             }
           ]
