@@ -6,7 +6,7 @@
     <RootNamespace>Assignment_1</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Assignment_1.Ticket_Calculator</StartupObject>
+    <StartupObject>Assignment_1.Triangle_Type_Identifier</StartupObject>
   </PropertyGroup>
 
 </Project>
